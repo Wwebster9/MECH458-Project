@@ -16,7 +16,7 @@ Sorting Apparatus:
 
 
 
-Protoype Board with microcontroller and LCD:
+Prototype Board with microcontroller and LCD:
 ![20201211_164648](https://user-images.githubusercontent.com/66701943/216228730-4f593510-b8de-4bdc-9e1f-c1c58c5137d2.jpg)
 
 
